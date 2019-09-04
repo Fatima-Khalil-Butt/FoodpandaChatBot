@@ -1,0 +1,83 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "ہاۓ"
+      },
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "ہیلو"
+      },
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "ھاۓ"
+      },
+      {
+        "intent": "greet",
+        "entities": [],
+        "text": "ھیلو"
+      },
+      {
+        "intent": "salam",
+        "entities": [],
+        "text": "اسلام وعلیکم"
+      },
+      {
+        "intent": "salam",
+        "entities": [],
+        "text": "السلام وعلیکم                                        "
+      },
+      {
+        "intent": "salam",
+        "entities": [],
+        "text": "سلام وعلیکم"
+      },
+      {
+        "intent": "salam",
+        "entities": [],
+        "text": "سلام علیکم"
+      },
+      {
+        "intent": "salam",
+        "entities": [],
+        "text": "سلام"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "بائے"
+      },
+      {
+        "intent": "goodbye",
+        "entities": [],
+        "text": "گڈ بائے"
+      },
+      {
+        "intent": "W.Salam",
+        "entities": [],
+        "text": "خدا حافظ"
+      },
+      {
+        "intent": "W.Salam",
+        "entities": [],
+        "text": "اللہ حافظ"
+      },
+      {
+        "intent": "W.Salam",
+        "entities": [],
+        "text": "وسلام"
+      },
+      {
+        "intent": "ask_resturant",
+        "entities": [],
+        "text": "آپکے پاس کونسے ریسٹورنٹس کی سہولت دستیاب ھے"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}

@@ -1,0 +1,36 @@
+action_factory: null
+action_names:
+- utter_greet
+- utter_goodbye
+- utter_salam
+- utter_W.Salam
+- utter_ask_resturant
+actions:
+- utter_greet
+- utter_goodbye
+- utter_salam
+- utter_W.Salam
+- utter_ask_resturant
+config:
+  store_entities_as_slots: true
+entities: []
+intents:
+- greet
+- salam
+- goodbye
+- W.Salam
+- ask_resturant
+slots: {}
+templates:
+  utter_W.Salam:
+  - text: خدا حافظ ھماری خدمات استمعال کرنے کا شکریہ
+  utter_ask_resturant:
+  - text: 'ہمارے پاس درج ذیل ریسٹورنٹس کی سہولت دستاب ھے : کے ایف سی ،برگر کنگ،ڈھا
+      کہ بھیا ریسٹورنٹ ،چندور'
+  utter_goodbye:
+  - text: گڈ بائے ھماری خدمات استمعال کرنے کا شکریہ
+  utter_greet:
+  - text: 'ہیلو ہم آپکی کیا مد د کر سکتے ہیں '
+  utter_salam:
+  - text: وعلیکم السلام  ہم آپکی کیا مد د کر سکتے ہیں
+topics: []

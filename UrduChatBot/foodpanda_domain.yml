@@ -1,0 +1,32 @@
+
+intents:
+ - greet
+ - salam
+ - goodbye
+ - W.Salam
+ - ask_resturant
+
+
+
+templates:
+  utter_greet:
+    - 'ہیلو ہم آپکی کیا مد د کر سکتے ہیں '
+  utter_salam:
+    - 'وعلیکم السلام  ہم آپکی کیا مد د کر سکتے ہیں'
+  utter_W.Salam:
+    - 'خدا حافظ ھماری خدمات استمعال کرنے کا شکریہ'
+  utter_goodbye:
+    - 'گڈ بائے ھماری خدمات استمعال کرنے کا شکریہ'
+  utter_ask_resturant:
+    - 'ہمارے پاس درج ذیل ریسٹورنٹس کی سہولت دستاب ھے : کے ایف سی ،برگر کنگ،ڈھا کہ بھیا ریسٹورنٹ ،چندور'
+ 
+
+
+actions:
+ - utter_greet
+ - utter_goodbye
+ - utter_salam
+ - utter_W.Salam
+ - utter_ask_resturant
+ 
+

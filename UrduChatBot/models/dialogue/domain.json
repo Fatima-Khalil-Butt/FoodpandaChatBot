@@ -1,0 +1,16 @@
+{
+  "features": [
+    "intent_greet",
+    "intent_salam",
+    "intent_goodbye",
+    "intent_W.Salam",
+    "intent_ask_resturant",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_greet",
+    "prev_utter_goodbye",
+    "prev_utter_salam",
+    "prev_utter_W.Salam",
+    "prev_utter_ask_resturant"
+  ]
+}
